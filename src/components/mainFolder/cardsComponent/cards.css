@@ -1,0 +1,42 @@
+.cardOutline{
+   
+   
+    height: 150px;
+    width: 260px;
+    background-color: #fff7f0;
+    margin: 2%;
+    display: inline-block;
+    zoom: 1; 
+    *display: inline;
+}
+
+.contColLine{
+    margin: 0 2%;
+}
+  
+.contRow{
+    display: flex;
+    padding: 10px;
+}
+
+.contColOne{
+    height: 110px;
+    padding-top: 40px;
+}
+
+.contColThree{
+    padding-top: 80px;
+}
+
+button{
+    background-color: aliceblue;
+    border-radius: 10px;
+    /* padding: 4px; */
+    border-color: aliceblue;
+}
+
+button:hover{
+    background-color:lightsteelblue;
+      transition: 0.7s;
+}
+
