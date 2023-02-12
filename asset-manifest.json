@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/intuit-craft/static/css/main.b3207db4.css",
+    "main.js": "/intuit-craft/static/js/main.914d76ba.js",
+    "static/js/787.f0c5dfa9.chunk.js": "/intuit-craft/static/js/787.f0c5dfa9.chunk.js",
+    "static/media/logo.svg": "/intuit-craft/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/intuit-craft/index.html",
+    "main.b3207db4.css.map": "/intuit-craft/static/css/main.b3207db4.css.map",
+    "main.914d76ba.js.map": "/intuit-craft/static/js/main.914d76ba.js.map",
+    "787.f0c5dfa9.chunk.js.map": "/intuit-craft/static/js/787.f0c5dfa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3207db4.css",
+    "static/js/main.914d76ba.js"
+  ]
+}
